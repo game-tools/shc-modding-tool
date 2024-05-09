@@ -1,0 +1,46 @@
+{
+	"units": {
+		"tunneler": 5,
+		"archer": 22,
+		"crossbowman": 23,
+		"spearman": 24,
+		"pikeman": 25,
+		"maceman": 26,
+		"swordsman": 27,
+		"knight": 28,
+		"ladderman": 29,
+		"engineer": 30,
+		"monk": 37,
+		"arabian archer": 70,
+		"slave": 71,
+		"slinger": 72,
+		"assassin": 73,
+		"horse archer": 74,
+		"arabian swordsman": 75,
+		"fire thrower": 76
+	},
+	"europeanUnitOrder": {
+		"archer": 0,
+		"crossbowman": 1,
+		"spearman": 2,
+		"pikeman": 3,
+		"maceman": 4,
+		"swordsman": 5,
+		"knight": 6,
+		"ladderman": 7,
+		"engineer": 8,
+		"tunneler": 9
+	},
+	"arabianUnitOrder": {
+		"arabian archer": 0,
+		"slave": 1,
+		"slinger": 2,
+		"assassin": 3,
+		"horse archer": 4,
+		"arabian swordsman": 5,
+		"fire thrower": 6
+	},
+	"recruitIdNumpad2": 26,
+	"recruitIdNumpad3": 26,
+	"autoTaxesInterval": 10000
+}
