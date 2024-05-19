@@ -11,13 +11,22 @@
 		"ladderman": 29,
 		"engineer": 30,
 		"monk": 37,
+		"catapult": 39,
+		"trebuchet": 40,
+		"mangonnel": 41,
+		"lord": 55,
+		"siege tower": 58,
+		"battering ram": 59,
+		"shield": 60,
+		"ballista": 61,
 		"arabian archer": 70,
 		"slave": 71,
 		"slinger": 72,
 		"assassin": 73,
 		"horse archer": 74,
 		"arabian swordsman": 75,
-		"fire thrower": 76
+		"fire thrower": 76,
+		"fire ballista": 77
 	},
 	"europeanUnitOrder": {
 		"archer": 0,
